@@ -8,7 +8,7 @@
 아래는 공격/방어 도시를 Farm(L25) 23,000으로 채우는 최단 시간을 시뮬레이션 한 결과에 대한 리포트이다.
 
 
-village 일반
+[village 일반]
 
  # barrack 20랩에서 10% 보너스, 25랩에서 생산력 15% 보너스가 있다. technology item은 25랩 15%를 사용하자.
 
@@ -17,7 +17,7 @@ village 일반
  # @초반에 wall을 먼저 올릴경우 wood, clay level을 먼저 올리자.
  
 
-attack village
+[attack village]
 
  # Minimum time(21day) LC:MA = 1:1, WD:CL:IR = 1865:1492:1715 = L26:L24:L26
 
@@ -28,7 +28,7 @@ attack village
     Method2 : 초반에 wood, clay level을 먼저 올리면서 진행하다가 나중에 최적 비율을 맞춘다.
 
 
-defense village
+[defense village]
 
  # Minimum time(29day) SP:HC = 11:2, WD:CL:IR = 1351:896:2020 = L24:L20:L27
 
