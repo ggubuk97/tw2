@@ -17,7 +17,9 @@
  -------------------------------------------------------------------------------------------------------
 (x) : minimum level x to produce 24 hours
 attack : LC:MA = 1:1
-defense : SP:HC = 11:2
+defense
+ 1. SP:HC = 11:2 (grown up village)
+ 2. SP:HC = 2:1 ~ 4:1 (early stage village)
 ```
 
 ###[tw2 strategy guide]
