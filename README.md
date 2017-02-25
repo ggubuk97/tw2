@@ -1,5 +1,3 @@
-## tw2
-
 
 ###[Brief Required Building Level]
 ```
@@ -22,7 +20,7 @@ defense
  2. SP:HC = 2:1 ~ 4:1 (early stage village)
 ```
 
-###[tw2 strategy guide]
+###[strategy guide]
 
 아래는 공격/방어 도시를 Farm(L25) 23,000으로 채우는 최단 시간을 시뮬레이션 한 결과에 대한 리포트이다.
 
